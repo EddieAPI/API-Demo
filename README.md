@@ -1,4 +1,4 @@
-Spot V2、V3 Demo 接口可根據API文檔所提之參數填入後執行接口對應之函數 => print()
+Spot V2、V3 Demo 根據API文檔所提之參數填入對應之函數後執行(None代表選填) => print()
 
 https://mxcdevelop.github.io/APIDoc/
 
