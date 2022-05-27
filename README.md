@@ -76,8 +76,7 @@ def on_open(ws):
         "op": "sub.symbol",
         "symbol": "ETH_USDT",       
     }    
-    print(json.dumps(params))
-    # time.sleep(2)
+    print(json.dumps(params))    
     ws.send(json.dumps(params))
 
 
