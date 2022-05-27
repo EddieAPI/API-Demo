@@ -10,7 +10,7 @@ Fill in the corresponding function according to the parameters mentioned in the 
 
 **Rest API V2 doc**
 
-* <https://mxcdevelop.github.io/APIDoc/>
+* <https://mxcdevelop.github.io/apidocs/spot_v2_cn/#5ea2e0cde2>
 
 **Rest API V3 doc**
 
