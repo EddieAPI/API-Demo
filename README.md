@@ -2,7 +2,7 @@
 
 Before you use the demo, you need to generate your apikey & apisecret, then enter them first.
 
-* <https://www.mexc.com/zh-TW/user/openapi>
+* <https://www.mexc.com/user/openapi>
 
 ## Spot V2、V3 Demo 
 
