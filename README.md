@@ -1,10 +1,25 @@
-Spot V2、V3 Demo 根據API文檔所提之參數填入對應之函數後執行(None代表選填) => print()
+# Mexc Python Demo
 
-https://mxcdevelop.github.io/APIDoc/
+Before you use the demo, you need to generate your apikey & apisecret, then enter them first.
 
-https://mxcdevelop.github.io/apidocs/spot_v3_cn/#45fa4e00db
+* <https://www.mexc.com/zh-TW/user/openapi>
 
-Spot Websocket Demo 可根據想訂閱信息，依照websocket文檔更改params中的內容，例如: "op"及"symbol"，
-調整好參數後執行整份python檔案
+## Spot V2、V3 Demo 
 
-https://github.com/mxcdevelop/APIDoc/blob/master/websocket/spot/websocket.2022_2_28.md
+Fill in the corresponding function according to the parameters mentioned in the API documentation and execute it => print()
+
+**Rest API V2 doc**
+
+* <https://mxcdevelop.github.io/APIDoc/>
+
+**Rest API V3 doc**
+
+* <https://mxcdevelop.github.io/apidocs/spot_v3_cn/#45fa4e00db>
+
+## Spot Websocket Demo 
+
+According to the information you want to subscribechange the content of the params according to the websocket documentation, ex: "op"及"symbol"，Execute the entire python file after adjusting the parameters
+
+**WebSocket doc**
+
+* <https://github.com/mxcdevelop/APIDoc/blob/master/websocket/spot/websocket.2022_2_28.md>
