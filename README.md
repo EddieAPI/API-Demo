@@ -18,7 +18,7 @@ Fill in the corresponding function according to the parameters mentioned in the 
 
 ## Spot Websocket Demo 
 
-According to the information you want to subscribechange the content of the params according to the websocket documentation, ex: "op" or "symbol". Execute the entire python file after adjusting the parameters.
+According to the information you want to subscribe, change the content of the params according to the websocket documentation, ex: "op" or "symbol".   Execute the entire python file after adjusting the parameters.
 
 **WebSocket doc**
 
