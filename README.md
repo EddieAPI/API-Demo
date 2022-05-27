@@ -17,7 +17,7 @@ Fill in the corresponding function according to the parameters mentioned in the 
 * <https://mxcdevelop.github.io/apidocs/spot_v3_cn/#45fa4e00db>
 
 
-### Example(Spot V3) :
+> ### Example(Spot V3) :
 
 ```python
 import json
@@ -55,7 +55,7 @@ According to the information you want to subscribe, change the content of the pa
 * <https://github.com/mxcdevelop/APIDoc/blob/master/websocket/spot/websocket.2022_2_28.md>
 
 
-### Example(Spot WebSocket) :
+> ### Example(Spot WebSocket) :
 ```python
 import json
 import websocket
